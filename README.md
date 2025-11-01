@@ -148,7 +148,7 @@ Retrieved from https://www.rssboard.org/rss-specification
 | **Lê Minh Đạt** | 23210501010 | PPT, Word | 20% |
 | **Nguyễn Nhật Duy** | 23210501008 | Word | 15% |
 | **Chung Khánh Duy** | 23210501006 | Word | 15% |
-| **Diệp Hoàng Thái** | 23210501019 | Code chính, Firebase Integration, Word | 50% |
+| **Diệp Hoàng Thái** | 23210501019 | Code chính, Firebase , Word | 50% |
 
 **GVHD:** Thầy Trần Thanh Nhã  
 **Trường Đại học Bình Dương – Phân hiệu Cà Mau**
