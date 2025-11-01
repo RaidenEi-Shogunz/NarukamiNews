@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135939195037",
+    "project_id": "narukaminews-cafcf",
+    "storage_bucket": "narukaminews-cafcf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135939195037:android:9f913612486d3d48dc5474",
+        "android_client_info": {
+          "package_name": "com.example.narukaminews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvEwOHRlSSX47dm3iRzH_FqKIP6CwF1QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
